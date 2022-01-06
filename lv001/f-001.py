@@ -1,8 +1,3 @@
-kiitenonedan = x
-kittenosougaku = y
-
-
-
-input(i)
-a = huutou
-x = int(i)
+# 公式解説
+a, b = map(int, input().split('x'))
+print(a * b);
